@@ -1,4 +1,4 @@
-### UnitaryHack 2022 issues
+### UnitaryHack 2022 bounties
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
 | [Error when parsing electron positional arguments in workflows](https://github.com/AgnostiqHQ/covalent/issues/441)      | TBD | 
@@ -11,7 +11,7 @@
 | [Change scope of docformatter and black](https://github.com/XanaduAI/flamingpy//issues/66)      | [#79](https://github.com/XanaduAI/flamingpy/pull/79) |
 | [Automatize docstrings types](https://github.com/pasqal-io/Pulser/issues/359)      | [#376](https://github.com/pasqal-io/Pulser/pull/376) |
 
-### UnitaryHack 2021 issues
+### UnitaryHack 2021 bounties
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
 | [ffmpeg command from User Guide gives an error](https://github.com/qutip/qutip/issues/799)      | [#1558](https://github.com/qutip/qutip/pull/1558) | 
