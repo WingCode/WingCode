@@ -1,7 +1,7 @@
 ### UnitaryHack 2022 bounties
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
-| [Error when parsing electron positional arguments in workflows](https://github.com/AgnostiqHQ/covalent/issues/441)      | TBD | 
+| [Error when parsing electron positional arguments in workflows](https://github.com/AgnostiqHQ/covalent/issues/441)      | [#663](https://github.com/AgnostiqHQ/covalent/pull/663) | 
 | [Demonstrate submission of multiple circuits in parallel](https://github.com/Qiskit-Partners/qiskit-ionq/issues/90)      | [#95](https://github.com/Qiskit-Partners/qiskit-ionq/pull/95) | 
 | [Add a user-agent string](https://github.com/Qiskit-Partners/qiskit-ionq/issues/91)      | [#94](https://github.com/Qiskit-Partners/qiskit-ionq/pull/94) | 
 | [Use consistent citation style in docs and function doctrings](https://github.com/unitaryfund/mitiq/issues/1250)      | [#1325](https://github.com/unitaryfund/mitiq/pull/1325) | 
