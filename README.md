@@ -9,7 +9,7 @@
 | [Add a requirements_dev.txt file](https://github.com/PennyLaneAI/pennylane/issues/2560)      | [#2635](https://github.com/PennyLaneAI/pennylane/pull/2635) | 
 | [Change the method name get_data_qubit to just get_qubit](https://github.com/tqsd/QuNetSim/issues/121)      | [#134](https://github.com/tqsd/QuNetSim/pull/134) |  
 | [Add mypy to CI](https://github.com/qir-alliance/pyqir/issues/57)      | [#127](https://github.com/qir-alliance/pyqir/pull/127) |
-| [Change scope of docformatter and black](https://github.com/XanaduAI/flamingpy//issues/66)      | [#79](https://github.com/XanaduAI/flamingpy/pull/79) |
+| [Change scope of docformatter and black](https://github.com/XanaduAI/flamingpy/issues/66)      | [#79](https://github.com/XanaduAI/flamingpy/pull/79) |
 | [Automatize docstrings types](https://github.com/pasqal-io/Pulser/issues/359)      | [#376](https://github.com/pasqal-io/Pulser/pull/376) |
 
 ### UnitaryHack 2021 bounties
