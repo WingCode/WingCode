@@ -1,4 +1,4 @@
-### UnitaryHack 2022 bounties
+### [UnitaryHack 2022 bounties](https://unitaryhack.dev/bounties/)
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
 | [Error when parsing electron positional arguments in workflows](https://github.com/AgnostiqHQ/covalent/issues/441)      | [#663](https://github.com/AgnostiqHQ/covalent/pull/663) |
@@ -12,13 +12,13 @@
 | [Change scope of docformatter and black](https://github.com/XanaduAI/flamingpy/issues/66)      | [#79](https://github.com/XanaduAI/flamingpy/pull/79) |
 | [Automatize docstrings types](https://github.com/pasqal-io/Pulser/issues/359)      | [#376](https://github.com/pasqal-io/Pulser/pull/376) |
 
-### UnitaryHack 2021 bounties
+### [UnitaryHack 2021 bounties](https://unitaryfund.github.io/unitaryhack/results.html)
 | Issue                                                         | Pull Request                                           | 
 | -------------                                                 |:-------------:                                         |
 | [ffmpeg command from User Guide gives an error](https://github.com/qutip/qutip/issues/799)      | [#1558](https://github.com/qutip/qutip/pull/1558) | 
 | [Add a command line switch to display sparse matrices with periods (.) replacing zero elements (0).](https://github.com/dde/qqcs/issues/18)      | [#19](https://github.com/dde/qqcs/pull/19) | 
 
-### QHack 2022
+### [QHack 2022](https://qhack.ai/)
 | Prize                                                         | Repo                                           | 
 | -------------                                                 |:-------------:                                         |
 | [Quantum Entrepreneurship Challenge honorary 3rd place](https://medium.com/xanaduai/qhack-2022-cb5ad92573e2) | [Finds potential scammer customers in a banking domain graph using clique by using QAOA and Goemans-Williamson algorithm using IBM Qiskit](https://github.com/WingCode/quantum-scam-finder) | 
